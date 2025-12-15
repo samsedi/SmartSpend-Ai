@@ -71,6 +71,4 @@ SmartSpend AI is a comprehensive mobile finance application designed to help use
 * firebase
 
 
-## 📄 License
 
-This project is licensed under the MIT License.
