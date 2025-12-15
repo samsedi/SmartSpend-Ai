@@ -21,12 +21,12 @@ SmartSpend AI is a comprehensive mobile finance application designed to help use
         <img src="assets/images/photo_2025-12-15_13-20-17.jpg" width="200" alt="Login" />
         <br /><b>Login</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="assets/images/photo_2025-12-15_13-20-42.jpg" width="200" alt="Home Dashboard" />
         <br /><b>Dashboard</b>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="assets/images/photo_2025-12-15_13-20-30.jpg" width="200" alt="Analytics" />
         <br /><b>Analytics & Stats</b>
@@ -34,6 +34,12 @@ SmartSpend AI is a comprehensive mobile finance application designed to help use
       <td align="center">
         <img src="assets/images/photo_2025-12-15_13-20-34.jpg" width="200" alt="Add Transaction" />
         <br /><b>Add Transaction</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-59-25.jpg" width="200" alt="AI Financial Advisor" />
+        <br /><b>AI Financial Advisor</b>
       </td>
       <td align="center">
         <img src="assets/images/photo_2025-12-15_13-20-47.jpg" width="200" alt="Profile" />
@@ -46,14 +52,14 @@ SmartSpend AI is a comprehensive mobile finance application designed to help use
     </tr>
   </table>
 </div>
+
 ## ✨ Key Features
 
 * **Secure Authentication:** Seamless Sign Up and Login with Email or Google integration.
 * **Smart Dashboard:** View total balance, quick actions, and financial summaries at a glance.
 * **Expense Tracking:** Easily log daily transactions with specific categories (Food, Transport, Shopping, etc.).
 * **Visual Analytics:** Interactive charts showing income vs. expenses, savings rates, and top spending categories.
-* **AI Advisor:** Intelligent financial advice based on your spending habits.
-* **Receipt Scanning:** Scan receipts to automatically log expenses.
+* **AI Financial Advisor:** Get personalized advice, actionable budgeting tips, and spending warnings based on your financial habits.
 * **Profile Management:** Manage account settings, security, and data export.
 
 ## 🛠 Tech Stack
@@ -61,31 +67,9 @@ SmartSpend AI is a comprehensive mobile finance application designed to help use
 * **Frontend:** React Native / Expo
 * **Language:** JavaScript / TypeScript
 * **Navigation:** React Navigation
-* **Styling:** StyleSheet / NativeWind
-* **Backend:** (Add your backend here, e.g., Firebase, Node.js, Spring Boot)
+* **Styling:** StyleSheet
+* firebase
 
-## 🚀 Getting Started
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/yourusername/smartspend-ai.git](https://github.com/yourusername/smartspend-ai.git)
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3.  **Run the application**
-    ```bash
-    npx expo start
-    ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
