@@ -1,50 +1,92 @@
-# Welcome to your Expo app 👋
+# SmartSpend AI 💰
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Track Smarter. Spend Better.**
 
-## Get started
+SmartSpend AI is a comprehensive mobile finance application designed to help users take control of their financial health. With an intuitive UI and intelligent insights, users can easily track expenses, monitor income, and visualize their spending habits.
 
-1. Install dependencies
+## 📱 Screenshots
 
-   ```bash
-   npm install
-   ```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-03.jpg" width="200" alt="Splash Screen" />
+        <br /><b>Splash Screen</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-23.jpg" width="200" alt="Create Account" />
+        <br /><b>Create Account</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-17.jpg" width="200" alt="Login" />
+        <br /><b>Login</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-42.jpg" width="200" alt="Home Dashboard" />
+        <br /><b>Dashboard</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-30.jpg" width="200" alt="Analytics" />
+        <br /><b>Analytics & Stats</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-34.jpg" width="200" alt="Add Transaction" />
+        <br /><b>Add Transaction</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-47.jpg" width="200" alt="Profile" />
+        <br /><b>User Profile</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/photo_2025-12-15_13-20-52.jpg" width="200" alt="Settings" />
+        <br /><b>Settings</b>
+      </td>
+    </tr>
+  </table>
+</div>
+## ✨ Key Features
 
-2. Start the app
+* **Secure Authentication:** Seamless Sign Up and Login with Email or Google integration.
+* **Smart Dashboard:** View total balance, quick actions, and financial summaries at a glance.
+* **Expense Tracking:** Easily log daily transactions with specific categories (Food, Transport, Shopping, etc.).
+* **Visual Analytics:** Interactive charts showing income vs. expenses, savings rates, and top spending categories.
+* **AI Advisor:** Intelligent financial advice based on your spending habits.
+* **Receipt Scanning:** Scan receipts to automatically log expenses.
+* **Profile Management:** Manage account settings, security, and data export.
 
-   ```bash
-   npx expo start
-   ```
+## 🛠 Tech Stack
 
-In the output, you'll find options to open the app in a
+* **Frontend:** React Native / Expo
+* **Language:** JavaScript / TypeScript
+* **Navigation:** React Navigation
+* **Styling:** StyleSheet / NativeWind
+* **Backend:** (Add your backend here, e.g., Firebase, Node.js, Spring Boot)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🚀 Getting Started
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/yourusername/smartspend-ai.git](https://github.com/yourusername/smartspend-ai.git)
+    ```
 
-## Get a fresh project
+2.  **Install dependencies**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-When you're ready, run:
+3.  **Run the application**
+    ```bash
+    npx expo start
+    ```
 
-```bash
-npm run reset-project
-```
+## 🤝 Contributing
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Learn more
+## 📄 License
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is licensed under the MIT License.
